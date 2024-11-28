@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">var2forrat</string>
+    <string name="proizvr">Произвести расчет</string>
+    <string name="vvdd">Введите данные</string>
+    <string name="nazv">Название фигуры</string>
+    <string name="rezs">Результат расчета</string>
+    <string name="loginnn">Введите логин</string>
+    <string name="voity">Войти</string>
+    <string name="parolpp">Введите пароль</string>
+    <string name="geometry">Геометрические фигуры</string>
+    <string name="nazad">назад</string>
+</resources>
