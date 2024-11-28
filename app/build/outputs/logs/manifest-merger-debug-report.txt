@@ -1,0 +1,419 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e8704b734930c07fcad720b67ed97253\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\49d1ef90949faebe0f0531ee19ad7ba0\transformed\material3-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\1d3fdf090c908fbf26a3d33e5cde3195\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e63eb318dba5f959e524c5cd0095006b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f8bb4283acda9fa80c27b2d161e805a4\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7f5b68299648e65553bb59bfd5079051\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0b6757fae51ce43339c984b035feb7b1\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\02b6afeadf07ff384cfd697e18c53535\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0d53ab404872a55c1ecd88262dbf3d1c\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\b7271ce326b0c3d48c929dc77ada0b78\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9d935d0f688d2afbec9595fe5445925c\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5c2460ff7a561641ec579e35589dd585\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\6fb067335d2edbe433d2324a8bfdd7ed\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\43e8feec8b9a04cb21d1e2b36b84a889\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5cc5e89a146331c6e274a8e90495ac0d\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9e756a84714dd472fed3042f02f45389\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7c958399c0fcdf3e84d069e98c6c53db\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\50462d754067d72bb5c558582a684679\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7e54e4244533a9d3a3fbfbfb2c3ed786\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c0282d204c4dec2b75d8ac02a594909e\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0a1f8a4579da73335ad1266965ed2774\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c3f8b2b0146de9a774b7eaea021aa030\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\606bdf428d0f29f464783089330683d8\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\HUAWEI\.gradle\caches\transforms-3\806b9711596dad5c73f9d8b78a464beb\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\54e630735fcfae643ac63e880af570b0\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd3bd72d562d2e703c95478555b93ed\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\043d38e7f894db50343637947d284468\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\be18198d2b56fd2060fde44cec332a97\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\280b2fb2f93c3b5356abc742fa0781cc\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d4c91a3acaa4a65f8542ded55344e474\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\752d65c517297b7c9b43b7d5e9553ed1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f3f00c90514a63fe2ad5332b0b5f7a5e\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\3e210d1da05d083087d65c751bec7025\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9fa39909a82aa8ce2079f7616d6c33b4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4d5c7a29208de85dee63e701fba76ad1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\649aef94622aaca35f574396d4d36c30\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\443857a2e77d4f3aeb100e2ef8566a28\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\62a1988c106c45453e8a81b07a8fe1ff\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\cd6db7a876b9af69f2eee49b1a10e141\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\331307cdebeff407b52ad5686b535f24\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4e9a7d8cc9065301e09f6d3c1f9e0a60\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5227c17a011a886d87c6937e8e14da25\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1f7cb6c0b1961c2f5d1c47197616d3df\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\acbcf126ebc9f40a6d028f8b51370136\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\09b2975d97a546af43c926aa405e2610\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\fc3e2df694e6c8f9f639adb0d4374700\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\c363421bb8cc3259fa6915e9e498a681\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\64d88cbd456ac051ecf249aaf4f219f0\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\81db408cc11404892195ea344562dd3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\f5215e7c9d8db945b8aabeaa5de6b8e7\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\cb8879e0fe207f8f7c5ed212c315e0ed\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\054d81b8384aae511cf1f909a8e853af\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\61ac372cf3a87423c3d575f7665d2d4d\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\b821df8977988e93baffe3bdb638c41b\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4ce62482bddc59dbae37cf2c23c33412\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\bfea9031173410f6e72026c2b9ae7af2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\bf889e35577eef8ce455fc7fd9e482a5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\55f7fc94a0f35fe70e433178906ccd8e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd7e4585c164e92d36194c2709ed799\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\99f8420365fc786cf832344859edbf0c\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d92476a2768c19a8c97365e7b4ad91f1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\2b5e27e044562ca22f9445ba2eafd39a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\3716195d6f0b0cd285f98d2d8de39c94\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\31220496bc3343a20d1db22fabb8e548\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f9c8b6bc3e8dba6d2e78b6080876a0e8\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\18c81fe1ba1c34e8118c806a4bd7fb89\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:5:5-35:19
+INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:5:5-35:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e8704b734930c07fcad720b67ed97253\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e8704b734930c07fcad720b67ed97253\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\1d3fdf090c908fbf26a3d33e5cde3195\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\1d3fdf090c908fbf26a3d33e5cde3195\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7e54e4244533a9d3a3fbfbfb2c3ed786\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7e54e4244533a9d3a3fbfbfb2c3ed786\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c3f8b2b0146de9a774b7eaea021aa030\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c3f8b2b0146de9a774b7eaea021aa030\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd7e4585c164e92d36194c2709ed799\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd7e4585c164e92d36194c2709ed799\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d92476a2768c19a8c97365e7b4ad91f1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d92476a2768c19a8c97365e7b4ad91f1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:11:9-43
+	tools:targetApi
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:13:9-46
+	android:dataExtractionRules
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.forrat02.MainActivity
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:16:13-41
+activity#com.example.forrat02.secondActivity
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:19:13-43
+activity#com.example.forrat02.firstActivity
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:22:13-42
+activity#com.example.forrat02.regis
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:24:9-34:20
+	android:label
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:27:13-45
+	android:exported
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:26:13-36
+	android:theme
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:28:13-50
+	android:name
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:25:13-34
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e8704b734930c07fcad720b67ed97253\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e8704b734930c07fcad720b67ed97253\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\49d1ef90949faebe0f0531ee19ad7ba0\transformed\material3-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\49d1ef90949faebe0f0531ee19ad7ba0\transformed\material3-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\1d3fdf090c908fbf26a3d33e5cde3195\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\1d3fdf090c908fbf26a3d33e5cde3195\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e63eb318dba5f959e524c5cd0095006b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e63eb318dba5f959e524c5cd0095006b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f8bb4283acda9fa80c27b2d161e805a4\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f8bb4283acda9fa80c27b2d161e805a4\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7f5b68299648e65553bb59bfd5079051\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7f5b68299648e65553bb59bfd5079051\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0b6757fae51ce43339c984b035feb7b1\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0b6757fae51ce43339c984b035feb7b1\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\02b6afeadf07ff384cfd697e18c53535\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\02b6afeadf07ff384cfd697e18c53535\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0d53ab404872a55c1ecd88262dbf3d1c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0d53ab404872a55c1ecd88262dbf3d1c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\b7271ce326b0c3d48c929dc77ada0b78\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\b7271ce326b0c3d48c929dc77ada0b78\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9d935d0f688d2afbec9595fe5445925c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9d935d0f688d2afbec9595fe5445925c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5c2460ff7a561641ec579e35589dd585\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5c2460ff7a561641ec579e35589dd585\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\6fb067335d2edbe433d2324a8bfdd7ed\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\6fb067335d2edbe433d2324a8bfdd7ed\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\43e8feec8b9a04cb21d1e2b36b84a889\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\43e8feec8b9a04cb21d1e2b36b84a889\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5cc5e89a146331c6e274a8e90495ac0d\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5cc5e89a146331c6e274a8e90495ac0d\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9e756a84714dd472fed3042f02f45389\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9e756a84714dd472fed3042f02f45389\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7c958399c0fcdf3e84d069e98c6c53db\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7c958399c0fcdf3e84d069e98c6c53db\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\50462d754067d72bb5c558582a684679\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\50462d754067d72bb5c558582a684679\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7e54e4244533a9d3a3fbfbfb2c3ed786\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7e54e4244533a9d3a3fbfbfb2c3ed786\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c0282d204c4dec2b75d8ac02a594909e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c0282d204c4dec2b75d8ac02a594909e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0a1f8a4579da73335ad1266965ed2774\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\0a1f8a4579da73335ad1266965ed2774\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c3f8b2b0146de9a774b7eaea021aa030\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c3f8b2b0146de9a774b7eaea021aa030\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\606bdf428d0f29f464783089330683d8\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\606bdf428d0f29f464783089330683d8\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\HUAWEI\.gradle\caches\transforms-3\806b9711596dad5c73f9d8b78a464beb\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\HUAWEI\.gradle\caches\transforms-3\806b9711596dad5c73f9d8b78a464beb\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\54e630735fcfae643ac63e880af570b0\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\54e630735fcfae643ac63e880af570b0\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd3bd72d562d2e703c95478555b93ed\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd3bd72d562d2e703c95478555b93ed\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\043d38e7f894db50343637947d284468\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\HUAWEI\.gradle\caches\transforms-3\043d38e7f894db50343637947d284468\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\be18198d2b56fd2060fde44cec332a97\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\be18198d2b56fd2060fde44cec332a97\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\280b2fb2f93c3b5356abc742fa0781cc\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\280b2fb2f93c3b5356abc742fa0781cc\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d4c91a3acaa4a65f8542ded55344e474\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d4c91a3acaa4a65f8542ded55344e474\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\752d65c517297b7c9b43b7d5e9553ed1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\752d65c517297b7c9b43b7d5e9553ed1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f3f00c90514a63fe2ad5332b0b5f7a5e\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f3f00c90514a63fe2ad5332b0b5f7a5e\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\3e210d1da05d083087d65c751bec7025\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\3e210d1da05d083087d65c751bec7025\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9fa39909a82aa8ce2079f7616d6c33b4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\9fa39909a82aa8ce2079f7616d6c33b4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4d5c7a29208de85dee63e701fba76ad1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4d5c7a29208de85dee63e701fba76ad1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\649aef94622aaca35f574396d4d36c30\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\649aef94622aaca35f574396d4d36c30\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\443857a2e77d4f3aeb100e2ef8566a28\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\443857a2e77d4f3aeb100e2ef8566a28\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\62a1988c106c45453e8a81b07a8fe1ff\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\62a1988c106c45453e8a81b07a8fe1ff\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\cd6db7a876b9af69f2eee49b1a10e141\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\cd6db7a876b9af69f2eee49b1a10e141\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\331307cdebeff407b52ad5686b535f24\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\331307cdebeff407b52ad5686b535f24\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4e9a7d8cc9065301e09f6d3c1f9e0a60\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4e9a7d8cc9065301e09f6d3c1f9e0a60\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5227c17a011a886d87c6937e8e14da25\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\5227c17a011a886d87c6937e8e14da25\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1f7cb6c0b1961c2f5d1c47197616d3df\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1f7cb6c0b1961c2f5d1c47197616d3df\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\acbcf126ebc9f40a6d028f8b51370136\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\acbcf126ebc9f40a6d028f8b51370136\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\09b2975d97a546af43c926aa405e2610\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\09b2975d97a546af43c926aa405e2610\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\fc3e2df694e6c8f9f639adb0d4374700\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\fc3e2df694e6c8f9f639adb0d4374700\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\c363421bb8cc3259fa6915e9e498a681\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\c363421bb8cc3259fa6915e9e498a681\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\64d88cbd456ac051ecf249aaf4f219f0\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\64d88cbd456ac051ecf249aaf4f219f0\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\81db408cc11404892195ea344562dd3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\81db408cc11404892195ea344562dd3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\f5215e7c9d8db945b8aabeaa5de6b8e7\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\f5215e7c9d8db945b8aabeaa5de6b8e7\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\cb8879e0fe207f8f7c5ed212c315e0ed\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\cb8879e0fe207f8f7c5ed212c315e0ed\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\054d81b8384aae511cf1f909a8e853af\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\054d81b8384aae511cf1f909a8e853af\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\61ac372cf3a87423c3d575f7665d2d4d\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\61ac372cf3a87423c3d575f7665d2d4d\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\b821df8977988e93baffe3bdb638c41b\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\b821df8977988e93baffe3bdb638c41b\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4ce62482bddc59dbae37cf2c23c33412\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\4ce62482bddc59dbae37cf2c23c33412\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\bfea9031173410f6e72026c2b9ae7af2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\bfea9031173410f6e72026c2b9ae7af2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\bf889e35577eef8ce455fc7fd9e482a5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\bf889e35577eef8ce455fc7fd9e482a5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\55f7fc94a0f35fe70e433178906ccd8e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\55f7fc94a0f35fe70e433178906ccd8e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd7e4585c164e92d36194c2709ed799\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd7e4585c164e92d36194c2709ed799\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\99f8420365fc786cf832344859edbf0c\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\99f8420365fc786cf832344859edbf0c\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d92476a2768c19a8c97365e7b4ad91f1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d92476a2768c19a8c97365e7b4ad91f1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\2b5e27e044562ca22f9445ba2eafd39a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\2b5e27e044562ca22f9445ba2eafd39a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\3716195d6f0b0cd285f98d2d8de39c94\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\3716195d6f0b0cd285f98d2d8de39c94\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\31220496bc3343a20d1db22fabb8e548\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\31220496bc3343a20d1db22fabb8e548\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f9c8b6bc3e8dba6d2e78b6080876a0e8\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\f9c8b6bc3e8dba6d2e78b6080876a0e8\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\18c81fe1ba1c34e8118c806a4bd7fb89\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\18c81fe1ba1c34e8118c806a4bd7fb89\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HUAWEI\Desktop\forratLK_01_02\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7e54e4244533a9d3a3fbfbfb2c3ed786\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7e54e4244533a9d3a3fbfbfb2c3ed786\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\7e54e4244533a9d3a3fbfbfb2c3ed786\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c3f8b2b0146de9a774b7eaea021aa030\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c3f8b2b0146de9a774b7eaea021aa030\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c3f8b2b0146de9a774b7eaea021aa030\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd7e4585c164e92d36194c2709ed799\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\efd7e4585c164e92d36194c2709ed799\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\00ca24077b1705db7c15e71fa2310e5f\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.example.forrat02.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.forrat02.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\edae609256923431e2f7fee888e64ba3\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HUAWEI\.gradle\caches\transforms-3\9b98eb3a4e17d4d124d00a86d6db4555\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\675bb0461527dacc91c283af7a4bcebd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

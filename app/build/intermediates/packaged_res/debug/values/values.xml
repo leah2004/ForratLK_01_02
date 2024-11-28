@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#619BDE</color>
+    <color name="gray">#979797</color>
+    <color name="green">#54E18D</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">var2forrat</string>
+    <string name="geometry">Геометрические фигуры</string>
+    <string name="loginnn">Введите логин</string>
+    <string name="nazad">назад</string>
+    <string name="nazv">Название фигуры</string>
+    <string name="parolpp">Введите пароль</string>
+    <string name="proizvr">Произвести расчет</string>
+    <string name="rezs">Результат расчета</string>
+    <string name="voity">Войти</string>
+    <string name="vvdd">Введите данные</string>
+    <style name="Theme.Forrat02" parent="Theme.AppCompat.DayNight.DarkActionBar"/>
+</resources>
